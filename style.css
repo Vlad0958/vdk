@@ -87,8 +87,8 @@
 		height: 160px;
 	}
 	.header{
-		background: #9900cc;
-		height: 100vh;
+		background: #660033;
+		height: 125vh;
 		width: 1240px;
 		background-repeat: no-repeat;
 		background-size: cover;	
@@ -128,17 +128,44 @@
 		margin-top: 89px;
 	}
 	.bottom{
-		margin-top: 169px;
+		margin-top: 530px;
 	}
 	.str{
 		margin-top: 950px;
-		height: 18px;
+		height: 7px;
 		width: 100%;
 	}
 	.contact{
 		margin-top: 21px;
 		margin-left: 27%;
-		color: #fff;
+		color: #ffff00;
 		font-weight: 500;
 		font-size: 48px;
+	}
+	.iconki{
+		display: flex;
+		margin-top: 36px;
+		margin-left: 332px;
+	}
+	.inst{
+		height: 175px;
+	}
+	.what{
+		height: 175px;
+	}
+	.bn{
+		height: 100px;
+		border-radius: 20%;
+	}
+	.st{
+		height: 100px;
+		border-radius: 20%;
+		display: block;
+	}
+	.btn-center{
+		display: block;
+		margin: 435px;
+	}
+	.stroka{
+		margin-top: -801px;
 	}
