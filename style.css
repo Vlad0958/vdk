@@ -164,8 +164,10 @@
 	}
 	.btn-center{
 		display: block;
-		margin: 435px;
+		margin: 0px;
+		margin-left: 36%;
+		margin-top: 35%;
 	}
 	.stroka{
-		margin-top: -801px;
+		margin-top: -575px;
 	}
